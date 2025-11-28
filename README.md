@@ -1,91 +1,149 @@
-# My-GitHub-Profile
-
-  
-
-### <div align="center">Hi! I'm Chanupa Chinthal. Motivated Computer Science student at the Informatics Institute of Technology (in collaboration with the University of Westminster), passionate about software development and problem-solving. Skilled in Java, Python, C, HTML, CSS, and JavaScript, with a strong foundation in building reliable, efficient, and user-focused applications. Committed to continuous learning and eager to contribute to innovative tech projects and teams.
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
-<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
+<!-- Banner / Typing Intro -->
 <div align="center">
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Unawatuna+Hewage+Chanupa+Chinthal+👋;Computer+Science+Student+%7C+Developer;DevOps+Engineer+in+Progress;Building+Scalable+%26+Reliable+Systems;Always+Learning.+Always+Building.)
+
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+I am a passionate **Computer Science Student** at the Informatics Institute of Technology (IIT – University of Westminster)**, driven by curiosity and innovation.  
+My focus areas include **Software Development, DevOps, GitOps, Cloud Engineering, and Cybersecurity**.
+
+I enjoy designing **secure, scalable, and user-centric systems** across multiple technologies.
+
+✨ **Mission:** Build, automate, secure & scale.  
+🔥 **Philosophy:** Consistency > Motivation.  
+🚀 **Goal:** Become a world-class DevOps & Cloud Engineer.
+
+---
+
+# ⚙️ Tech Stack & Skills
+
+## 🌐 Frontend Development
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg" height="50" alt="React" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" height="50" alt="JavaScript" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/typescript.svg" height="50" alt="TypeScript" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg" height="50" alt="HTML5" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" height="50" alt="CSS3" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/bootstrap.svg" height="50" alt="Bootstrap" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/electron.svg" height="50" alt="Electron" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/adobeillustrator.svg" height="50" alt="Illustrator" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/chartdotjs.svg" height="50" alt="Chart.js" />
+
+</div>
+
+---
+
+## 🖥️ Backend Development
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" height="50" alt="Python" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/c.svg" height="50" alt="C" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/cplusplus.svg" height="50" alt="C++" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/node-dot-js.svg" height="50" alt="Node.js" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/express.svg" height="50" alt="Express" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mongodb.svg" height="50" alt="MongoDB" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/git.svg" height="50" alt="Git" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gnubash.svg" height="50" alt="Bash" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linux.svg" height="50" alt="Linux" />
+
+</div>
+
+---
+
+## 🚀 DevOps & Cloud Engineering
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonaws.svg" height="55" alt="AWS" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlecloud.svg" height="55" alt="GCP" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/kubernetes.svg" height="55" alt="Kubernetes" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/docker.svg" height="55" alt="Docker" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nginx.svg" height="55" alt="Nginx" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linux.svg" height="55" alt="Linux" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/jenkins.svg" height="55" alt="Jenkins" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/argo.svg" height="55" alt="ArgoCD" />
+
+</div>
+
+---
+
+## 🔄 GitOps & Infrastructure Automation
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/argo.svg" height="55" alt="ArgoCD" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/flux.svg" height="55" alt="FluxCD" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/git.svg" height="55" alt="Git" />
+
+</div>
+
+✨ *I strongly believe in declarative infrastructure, CI/CD automation, and continuous delivery pipelines.*
+
+---
+
+# 📊 GitHub Insights
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=life1code&show_icons=true&theme=tokyonight" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=life1code&layout=compact&theme=tokyonight" height="165"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=life1code&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+
+</div>
+
+---
+
+# 📈 Activity Graph
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=life1code&theme=tokyo-night)
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
 <a href="https://github.com/life1code" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
 <a href="https://www.linkedin.com/in/unawatuna-hewage-chanupa-chinthal-788b3b279/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-<br/>  
+</div>
 
+---
 
+# 📝 Latest Blog Updates
 
-## Recent Blog Posts  
-  
+🚀 New posts coming soon on:
+- Cloud Automation
+- GitOps Best Practices
+- Kubernetes Engineering
+- Secure DevOps Pipelines
+- CI/CD Strategy & Tooling
 
-<br/>  
+---
 
+<div align="center">
 
+### ✨ *Thanks for stopping by — keep building, keep automating!* 🚀
 
-<br/>  
+</div>
 
