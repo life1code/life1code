@@ -9,107 +9,113 @@
 
 # 👨‍💻 About Me
 
-I am a passionate **Computer Science Student** at the Informatics Institute of Technology (IIT – University of Westminster)**, driven by curiosity and innovation.  
-My focus areas include **Software Development, DevOps, GitOps, Cloud Engineering, and Cybersecurity**.
+<p align="justify">
+I am Unawatuna Hewage Chanupa Chinthal, a highly driven Computer Science undergraduate at IIT (University of Westminster) with a strong passion for building scalable, secure, and automated systems.My work is rooted in curiosity, continuous learning, and the desire to solve real-world problems through Software Engineering, Cloud Architecture, and DevOps automation. I thrive in environments where innovation, reliability, and efficiency matter the most.I love designing solutions that integrate clean code, modern cloud technologies, and DevOps best practices — from container orchestration and CI/CD pipelines to infrastructure automation and GitOps workflows.
 
-I enjoy designing **secure, scalable, and user-centric systems** across multiple technologies.
+✨ <b>Mission:</b> To turn ideas into reliable, automated, production-ready systems.<br>
+🔥 <b>Mindset:</b> Learn → Build → Automate → Improve (repeat).<br>
+🚀 <b>Career Goal:</b> Become a leading DevOps & Cloud Engineer contributing to world-class engineering teams and impactful products.
+</p>
 
-✨ **Mission:** Build, automate, secure & scale.  
-🔥 **Philosophy:** Consistency > Motivation.  
-🚀 **Goal:** Become a world-class DevOps & Cloud Engineer.
-
----
-
-# ⚙️ Tech Stack & Skills
-
-## 🌐 Frontend Development
-<div align="center">
-
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg" height="50" alt="React" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" height="50" alt="JavaScript" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/typescript.svg" height="50" alt="TypeScript" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg" height="50" alt="HTML5" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" height="50" alt="CSS3" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/bootstrap.svg" height="50" alt="Bootstrap" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/electron.svg" height="50" alt="Electron" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/adobeillustrator.svg" height="50" alt="Illustrator" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/chartdotjs.svg" height="50" alt="Chart.js" />
-
-</div>
+# ⚙️ Tech Stack & Skills  
 
 ---
 
-## 🖥️ Backend Development
-<div align="center">
+<table>
+<tr>
 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" height="50" alt="Python" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/c.svg" height="50" alt="C" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/cplusplus.svg" height="50" alt="C++" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/node-dot-js.svg" height="50" alt="Node.js" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/express.svg" height="50" alt="Express" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mongodb.svg" height="50" alt="MongoDB" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/git.svg" height="50" alt="Git" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gnubash.svg" height="50" alt="Bash" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linux.svg" height="50" alt="Linux" />
+<!-- Frontend -->
+<td width="33%" valign="top">
+<div style="background:#111418;padding:15px;border-radius:8px;">
+<h3>🌐 Frontend Development</h3>
 
+<table>
+<tr><th>Logo</th><th>Technology</th></tr>
+
+<tr><td><img src="https://skillicons.dev/icons?i=react" height="32"></td><td>React</td></tr>
+<tr><td><img src="https://skillicons.dev/icons?i=js" height="32"></td><td>JavaScript</td></tr>
+<tr><td><img src="https://skillicons.dev/icons?i=ts" height="32"></td><td>TypeScript</td></tr>
+<tr><td><img src="https://skillicons.dev/icons?i=html" height="32"></td><td>HTML5</td></tr>
+<tr><td><img src="https://skillicons.dev/icons?i=css" height="32"></td><td>CSS3</td></tr>
+<tr><td><img src="https://skillicons.dev/icons?i=bootstrap" height="32"></td><td>Bootstrap</td></tr>
+<tr><td><img src="https://skillicons.dev/icons?i=electron" height="32"></td><td>ElectronJS</td></tr>
+<tr><td><img src="https://skillicons.dev/icons?i=ai" height="32"></td><td>Adobe Illustrator</td></tr>
+<tr><td><img src="https://skillicons.dev/icons?i=chartjs" height="32"></td><td>Chart.js</td></tr>
+
+</table>
 </div>
+</td>
 
----
+<!-- Backend -->
+<td width="33%" valign="top">
+<div style="background:#111418;padding:15px;border-radius:8px;">
+<h3>🖥️ Backend Development</h3>
 
-## 🚀 DevOps & Cloud Engineering
-<div align="center">
+<table>
+<tr><th>Logo</th><th>Technology</th></tr>
 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonaws.svg" height="55" alt="AWS" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlecloud.svg" height="55" alt="GCP" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/kubernetes.svg" height="55" alt="Kubernetes" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/docker.svg" height="55" alt="Docker" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nginx.svg" height="55" alt="Nginx" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linux.svg" height="55" alt="Linux" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/jenkins.svg" height="55" alt="Jenkins" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/argo.svg" height="55" alt="ArgoCD" />
+<tr><td><img src="https://skillicons.dev/icons?i=python" height="32"></td><td>Python</td></tr>
+<tr><td><img src="https://skillicons.dev/icons?i=c" height="32"></td><td>C Programming</td></tr>
+<tr><td><img src="https://skillicons.dev/icons?i=cpp" height="32"></td><td>C++ Programming</td></tr>
+<tr><td><img src="https://skillicons.dev/icons?i=nodejs" height="32"></td><td>Node.js</td></tr>
+<tr><td><img src="https://skillicons.dev/icons?i=express" height="32"></td><td>Express.js</td></tr>
+<tr><td><img src="https://skillicons.dev/icons?i=mongodb" height="32"></td><td>MongoDB</td></tr>
+<tr><td><img src="https://skillicons.dev/icons?i=git" height="32"></td><td>Git Version Control</td></tr>
+<tr><td><img src="https://skillicons.dev/icons?i=bash" height="32"></td><td>Bash Scripting</td></tr>
+<tr><td><img src="https://skillicons.dev/icons?i=linux" height="32"></td><td>Linux Administration</td></tr>
 
+</table>
 </div>
+</td>
 
----
+<!-- DevOps -->
+<td width="33%" valign="top">
+<div style="background:#111418;padding:15px;border-radius:8px;">
+<h3>🚀 DevOps & Cloud Engineering</h3>
 
-## 🔄 GitOps & Infrastructure Automation
-<div align="center">
+<table>
+<tr><th>Logo</th><th>Technology</th></tr>
 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/argo.svg" height="55" alt="ArgoCD" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/flux.svg" height="55" alt="FluxCD" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/git.svg" height="55" alt="Git" />
+<tr><td><img src="https://skillicons.dev/icons?i=aws" height="32"></td><td>AWS</td></tr>
+<tr><td><img src="https://skillicons.dev/icons?i=gcp" height="32"></td><td>Google Cloud</td></tr>
+<tr><td><img src="https://skillicons.dev/icons?i=kubernetes" height="32"></td><td>Kubernetes</td></tr>
+<tr><td><img src="https://skillicons.dev/icons?i=docker" height="32"></td><td>Docker</td></tr>
+<tr><td><img src="https://skillicons.dev/icons?i=nginx" height="32"></td><td>Nginx</td></tr>
+<tr><td><img src="https://skillicons.dev/icons?i=linux" height="32"></td><td>Linux OS</td></tr>
+<tr><td><img src="https://skillicons.dev/icons?i=jenkins" height="32"></td><td>Jenkins CI/CD</td></tr>
+<tr><td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="32"></td><td>ArgoCD</td></tr>
+<tr><td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="32"></td><td>GitLab CI/CD</td></tr>
+<tr><td><img src="https://skillicons.dev/icons?i=github" height="32"></td><td>GitHub Actions</td></tr>
+<tr><td><img src="https://skillicons.dev/icons?i=terraform" height="32"></td><td>Terraform (IaC)</td></tr>
 
+</table>
 </div>
+</td>
 
-✨ *I strongly believe in declarative infrastructure, CI/CD automation, and continuous delivery pipelines.*
+</tr>
+</table>
 
 ---
 
 # 📊 GitHub Insights
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=life1code&show_icons=true&theme=tokyonight" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=life1code&layout=compact&theme=tokyonight" height="165"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=life1code&show_icons=true&theme=tokyonight" height="165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=life1code&layout=compact&theme=tokyonight" height="165">
 </div>
 
 ---
 
 # 🔥 Contribution Streak
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=life1code&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-
+<img src="https://streak-stats.demolab.com?user=life1code&theme=tokyonight&hide_border=false">
 </div>
 
 ---
 
 # 📈 Activity Graph
 <div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=life1code&theme=tokyo-night)
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=life1code&theme=tokyo-night">
 </div>
 
 ---
@@ -118,32 +124,20 @@ I enjoy designing **secure, scalable, and user-centric systems** across multiple
 
 <div align="center">
 
-<a href="https://github.com/life1code" target="_blank">
-<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/life1code">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="https://www.linkedin.com/in/unawatuna-hewage-chanupa-chinthal-788b3b279/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/unawatuna-hewage-chanupa-chinthal-788b3b279/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 </div>
-
----
-
-# 📝 Latest Blog Updates
-
-🚀 New posts coming soon on:
-- Cloud Automation
-- GitOps Best Practices
-- Kubernetes Engineering
-- Secure DevOps Pipelines
-- CI/CD Strategy & Tooling
 
 ---
 
 <div align="center">
 
-### ✨ *Thanks for stopping by — keep building, keep automating!* 🚀
+### ✨ *Thanks for visiting — keep building, keep automating!* 🚀
 
 </div>
-
